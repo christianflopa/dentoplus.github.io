@@ -1,0 +1,89 @@
+.letra{ 
+  font-family: "Century Gothic", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 4px;
+ }
+.letratitulo{ 
+  font-family: "Century Gothic", sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+ }
+ .menurojo:hover{ 
+color: red !important; 
+background-color: white !important;
+  }
+
+  .nohover:hover{ 
+ 
+background-color: white !important;
+   }
+.nopadding{ 
+padding: 0px;
+
+ }
+
+ .imglg{ 
+height: 800px !important;
+width: 100% !important;
+  }
+
+  .hovernegro:hover{
+    color: black !important;
+  }
+
+  .noline{
+  text-decoration: none !important; 
+   }
+
+.botones{ 
+
+width: auto!important;
+height: auto!important;
+font-size: 14px!important;
+font-family: Inherit!important;
+color: #ffffff!important;
+padding-top: 15px!important;
+padding-bottom: 15px!important;
+background-color: rgba(0,0,0,0.73)!important;
+ }
+
+ .footer_menu{ 
+  list-style: none;
+    margin: 0;
+  }
+
+  .columns{ 
+        float: left !important;
+    display: inline !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+   }
+
+   .letratextos{ 
+  font-family: "Century Gothic", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  
+ }
+ ul {
+ width: 100%;
+ display: flex;
+ justify-content: space-around;
+
+ text-align:center;
+}
+li {
+ display:inline-block;
+ 
+ 
+}
+
+a {
+  text-decoration: none !important;
+}
+img{
+  margin: 0px !important;
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}
