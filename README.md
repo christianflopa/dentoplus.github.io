@@ -1,1 +1,1 @@
-# dentoplus.github.io
+Página web estática para clínica dental DentoPlus
